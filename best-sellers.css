@@ -1,0 +1,72 @@
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(1) { display: block; }
+.best-sellers .product:nth-of-type(1) .image{ background-image: url('https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/c1QAAOSwKphb-96j/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(1) .title:before{ content: "Duvet Cover With Pillowcases Quilt Cover Bedding Set Single Double King All Size"; }
+.best-sellers .product:nth-of-type(1) .price:before{ content: "\00A3 10.99"; }
+.best-sellers .product:nth-of-type(1) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(1) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(2) { display: block; }
+.best-sellers .product:nth-of-type(2) .image{ background-image: url('https://i.ebayimg.com/00/s/MTQyOFgxNjAw/z/mREAAOSwnr9bUc2o/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(2) .title:before{ content: "THERMAL 100% BRUSHED COTTON FLANNELETTE QUILT DUVET COVER BED SET COSY WARM SOFT"; }
+.best-sellers .product:nth-of-type(2) .price:before{ content: "\00A3 9.99"; }
+.best-sellers .product:nth-of-type(2) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(2) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(3) { display: block; }
+.best-sellers .product:nth-of-type(3) .image{ background-image: url('https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/3sQAAOSw4NZbl5Wi/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(3) .title:before{ content: "Duvet Cover Bedding Set Single Double King Super Size Pink Blue Black White Grey"; }
+.best-sellers .product:nth-of-type(3) .price:before{ content: "\00A3 10.99"; }
+.best-sellers .product:nth-of-type(3) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(3) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(4) { display: block; }
+.best-sellers .product:nth-of-type(4) .image{ background-image: url('https://i.ebayimg.com/00/s/MTYwMFgxNTk5/z/l68AAOSwnDRciOOG/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(4) .title:before{ content: "Paisley Grey Duvet Cover Pillowcase Set Reversible Bedding Single Double King"; }
+.best-sellers .product:nth-of-type(4) .price:before{ content: "\00A3 13.49"; }
+.best-sellers .product:nth-of-type(4) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(4) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(5) { display: block; }
+.best-sellers .product:nth-of-type(5) .image{ background-image: url('https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/bzsAAOSw8UZaAqHI/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(5) .title:before{ content: "INKY FLORAL GREY & PURPLE DUVET COVER SINGLE DOUBLE KING & SUPERKING BEDDING SET"; }
+.best-sellers .product:nth-of-type(5) .price:before{ content: "\00A3 12.49"; }
+.best-sellers .product:nth-of-type(5) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(5) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(6) { display: block; }
+.best-sellers .product:nth-of-type(6) .image{ background-image: url('https://i.ebayimg.com/00/s/MTU3NlgxNjAw/z/Ax8AAOSwYVhZceJg/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(6) .title:before{ content: "Unicorn Quilt Duvet Cover & Pillowcase Bed Set Single Double & King by Pieridae"; }
+.best-sellers .product:nth-of-type(6) .price:before{ content: "\00A3 12.99"; }
+.best-sellers .product:nth-of-type(6) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(6) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(7) { display: block; }
+.best-sellers .product:nth-of-type(7) .image{ background-image: url('https://i.ebayimg.com/00/s/MTU5OFgxNjAw/z/aoMAAOSwKSlb5XQL/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(7) .title:before{ content: "Retro Paris Florence Duvet Cover & Pillowcase Set Bedding Single Double King New"; }
+.best-sellers .product:nth-of-type(7) .price:before{ content: "\00A3 9.99"; }
+.best-sellers .product:nth-of-type(7) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(7) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(8) { display: block; }
+.best-sellers .product:nth-of-type(8) .image{ background-image: url('https://i.ebayimg.com/00/s/MTI5NlgxNjAw/z/o6cAAOSw-itXqZov/$_57.JPG?set_id=880000500F'); }
+.best-sellers .product:nth-of-type(8) .title:before{ content: "Pieridae Paisley Duvet Cover & Pillowcase Bed Set Single Double King Super Teal"; }
+.best-sellers .product:nth-of-type(8) .price:before{ content: "\00A3 11.49"; }
+.best-sellers .product:nth-of-type(8) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(8) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(9) { display: block; }
+.best-sellers .product:nth-of-type(9) .image{ background-image: url('https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/FZ8AAOSwvl9bqzaP/$_57.JPG?set_id=8800005007'); }
+.best-sellers .product:nth-of-type(9) .title:before{ content: "Duvet Cover With Pillowcases Quilt Cover Bedding Set Single Double King All Size"; }
+.best-sellers .product:nth-of-type(9) .price:before{ content: "\00A3 11.00"; }
+.best-sellers .product:nth-of-type(9) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(9) .rrp{ visibility: hidden; }
+ /* Best Sellers */
+.best-sellers .product:nth-of-type(10) { display: block; }
+.best-sellers .product:nth-of-type(10) .image{ background-image: url('https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/8r8AAOSwdzVXsWgc/$_57.JPG?set_id=880000500F'); }
+.best-sellers .product:nth-of-type(10) .title:before{ content: "New Paisley Duvet Quilt Bedding Cover Pillowcase Set Shell Pink Teal Black Grey"; }
+.best-sellers .product:nth-of-type(10) .price:before{ content: "\00A3 10.49"; }
+.best-sellers .product:nth-of-type(10) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(10) .rrp{ visibility: hidden; }
+.best-sellers { display: block; }
+
