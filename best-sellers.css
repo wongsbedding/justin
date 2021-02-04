@@ -1,51 +1,51 @@
  /* Best Sellers */
 .best-sellers .product:nth-of-type(1) { display: block; }
-.best-sellers .product:nth-of-type(1) .image{ background-image: url('https://i.ebayimg.com/images/g/b14AAOSw72Fd3Juy/s-l1600.jpg'); }
+.best-sellers .product:nth-of-type(1) .image{ background-image: url('https://i.ebayimg.com/images/g/justin1/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(1) .title:before{ content: "Animal Quilt Doona Duvet Cover Set Single/Double/Queen/King Size Bed Bedding Set"; }
-.best-sellers .product:nth-of-type(1) .price:before{ content: "\00A3 34.99"; }
-.best-sellers .product:nth-of-type(1) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(1) .price:before{ content: "\$ 34.99"; }
+.best-sellers .product:nth-of-type(1) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(1) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(2) { display: block; }
-.best-sellers .product:nth-of-type(2) .image{ background-image: url('https://i.ebayimg.com/images/g/jREAAOSw8Otd4P4w/s-l1600.jpg'); }
+.best-sellers .product:nth-of-type(2) .image{ background-image: url('https://i.ebayimg.com/images/g/justin1/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(2) .title:before{ content: "Floral Quilt Doona Duvet Cover Set Single Double Queen King Size Bed Bedding"; }
-.best-sellers .product:nth-of-type(2) .price:before{ content: "\00A3 27.99"; }
-.best-sellers .product:nth-of-type(2) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(2) .price:before{ content: "\$ 27.99"; }
+.best-sellers .product:nth-of-type(2) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(2) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(3) { display: block; }
-.best-sellers .product:nth-of-type(3) .image{ background-image: url('https://i.ebayimg.com/images/g/ZPYAAOSwnWFer-jC/s-l1600.jpg'); }
+.best-sellers .product:nth-of-type(3) .image{ background-image: url('https://i.ebayimg.com/images/g/justin1-jC/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(3) .title:before{ content: "Floral Doona Duvet Quilt Cover Set Single Double Queen King Size Bed Bedding Set"; }
-.best-sellers .product:nth-of-type(3) .price:before{ content: "\00A3 15.99"; }
-.best-sellers .product:nth-of-type(3) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(3) .price:before{ content: "\$ 15.99"; }
+.best-sellers .product:nth-of-type(3) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(3) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(4) { display: block; }
-.best-sellers .product:nth-of-type(4) .image{ background-image: url('https://i.ebayimg.com/images/g/OnMAAOSwAG9fKShu/s-l1600.jpg'); }
+.best-sellers .product:nth-of-type(4) .image{ background-image: url('https://i.ebayimg.com/images/g/justin1/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(4) .title:before{ content: "Animal Floral Quilt Doona Duvet Cover Set Single Double Queen King Size Bed New"; }
-.best-sellers .product:nth-of-type(4) .price:before{ content: "\00A3 35.99"; }
-.best-sellers .product:nth-of-type(4) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(4) .price:before{ content: "\$ 35.99"; }
+.best-sellers .product:nth-of-type(4) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(4) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(5) { display: block; }
-.best-sellers .product:nth-of-type(5) .image{ background-image: url('https://i.ebayimg.com/images/g/qEMAAOSwHB5d5NUX/s-l1600.jpg'); }
+.best-sellers .product:nth-of-type(5) .image{ background-image: url('https://i.ebayimg.com/images/g/justin1/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(5) .title:before{ content: "Christmas Gift Duvet/Doona/Quilt Cover Set Single Queen/King/Super King Size Bed"; }
-.best-sellers .product:nth-of-type(5) .price:before{ content: "\00A3 36.99"; }
-.best-sellers .product:nth-of-type(5) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(5) .price:before{ content: "\$ 36.99"; }
+.best-sellers .product:nth-of-type(5) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(5) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(6) { display: block; }
 .best-sellers .product:nth-of-type(6) .image{ background-image: url('https://i.ebayimg.com/images/g/3p8AAOSwlkhd3OZW/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(6) .title:before{ content: "Solid Quilt Duvet Doona Cover Set Queen King Size Bed Fitted Sheet Flat Sheet"; }
-.best-sellers .product:nth-of-type(6) .price:before{ content: "\00A3 12.97"; }
-.best-sellers .product:nth-of-type(6) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(6) .price:before{ content: "\$ 12.97"; }
+.best-sellers .product:nth-of-type(6) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(6) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(7) { display: block; }
 .best-sellers .product:nth-of-type(7) .image{ background-image: url('https://i.ebayimg.com/images/g/MssAAOSwEXJe7DVA/s-l1600.jpg'); }
 .best-sellers .product:nth-of-type(7) .title:before{ content: "Animail Comforter Quilt Duvet Doona Queen King Size Bed Bedding Set Mandala New"; }
-.best-sellers .product:nth-of-type(7) .price:before{ content: "\00A3 55.99"; }
-.best-sellers .product:nth-of-type(7) .rrp:before{ content: "\00A3 Not Available"; }
+.best-sellers .product:nth-of-type(7) .price:before{ content: "\$ 55.99"; }
+.best-sellers .product:nth-of-type(7) .rrp:before{ content: "\$ Not Available"; }
 .best-sellers .product:nth-of-type(7) .rrp{ visibility: hidden; }
  /* Best Sellers */
 .best-sellers .product:nth-of-type(8) { display: block; }
